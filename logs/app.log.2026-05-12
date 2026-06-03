@@ -1,0 +1,8 @@
+2026-05-12 12:39:28 INFO [uvicorn.error] Shutting down
+2026-05-12 12:39:28 INFO [uvicorn.error] Waiting for application shutdown.
+2026-05-12 12:39:28 INFO [app] MongoDB connection closed
+2026-05-12 12:39:28 INFO [uvicorn.error] Application shutdown complete.
+2026-05-12 12:39:28 INFO [uvicorn.error] Finished server process [10688]
+2026-05-12 12:39:37 INFO [app] Logging initialized
+2026-05-12 12:39:37 INFO [app] Log file path: D:\kalai\logs\app.log
+2026-05-12 12:39:37 INFO [app] Connected to MongoDB: mango_ecommerce
